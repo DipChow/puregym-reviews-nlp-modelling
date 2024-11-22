@@ -1,15 +1,12 @@
-os
 numpy
 pandas
 matplotlib
-re
 seaborn
 nltk
 wordcloud
 bertopic
-collections
 pathlib
-sklearn
+scikit-learn
 keras
 IPython
 transformers
