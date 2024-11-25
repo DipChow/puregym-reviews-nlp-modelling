@@ -2,3 +2,5 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+Google_12_months.xlsx
+Trustpilot_12_months.xlsx
