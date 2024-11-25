@@ -7,7 +7,8 @@ wordcloud
 bertopic
 pathlib
 scikit-learn
-keras
+tf-keras
 IPython
 transformers
 openpyxl
+tensorflow
