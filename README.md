@@ -1,4 +1,4 @@
-# Applying NLP For Topic Modelling on PureGym User Reviews
+## Applying NLP For Topic Modelling on PureGym User Reviews
 
 The PureGym Group, founded in 2008, has approximately 2 million members and 600 gyms across the world (particularly in the UK, Denmark, and Switzerland). As one of the world’s largest value fitness operators, PureGym appeals to a broad range of customers by offering high-quality, low-cost, and flexible fitness facilities. The company’s customer-centric proposition – affordable membership fees, no fixed-term contracts, and 24/7 access to high-quality gyms – differentiates it from more traditional gyms and elevates it as a market leader within this space.
 
